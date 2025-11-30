@@ -5,6 +5,11 @@ Web-socket - Communication Protocol Like HTTP/FTP(File transfer Protocol)/SMTP(s
 HTTP - One Way Communication as client only make request to the server to reponse to the request server give response
 
 Web-Socket - Connection between server and client establishes and both communicate without request 
-             
+             methods - 
+                 socket.emit
+                 socket.on
+                 socket.brodcast.emit
+                 io.on
+                 disconnectEvent
 
  
